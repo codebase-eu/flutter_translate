@@ -1,7 +1,7 @@
 
-[<img src="https://github.com/Jesway/Flutter-Translate/raw/master/resources/images/flutter_translate.png" />](https://github.com/Jesway/Flutter-Translate/)
+[<img src="https://github.com/Jesway/Flutter-Translate/raw/master/resources/images/codebase_translate.png" />](https://github.com/Jesway/Flutter-Translate/)
 
-[![pub package](https://img.shields.io/pub/v/flutter_translate.svg?color=important)](https://pub.dev/packages/flutter_translate)
+[![pub package](https://img.shields.io/pub/v/codebase_translate.svg?color=important)](https://pub.dev/packages/codebase_translate)
 <a href="https://github.com/Solido/awesome-flutter">
    <img alt="Awesome Flutter" src="https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true" />
 </a>
@@ -15,7 +15,7 @@ Flutter Translate is a fully featured localization / internationalization (i18n)
 It lets you define translations for your content in different languages and switch between them easily.
 
 ## Example
-<img src="https://raw.githubusercontent.com/Jesway/Flutter-Translate/master/resources/gifs/flutter_translate_screen.gif" width="300"/>
+<img src="https://raw.githubusercontent.com/Jesway/Flutter-Translate/master/resources/gifs/codebase_translate_screen.gif" width="300"/>
 
 ## Features
 

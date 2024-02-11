@@ -1,5 +1,5 @@
 name: example
-description: Example project for the flutter_translate library
+description: Example project for the codebase_translate library
 publish_to: none
 version: 4.0.0
 
@@ -11,7 +11,7 @@ dependencies:
     sdk: flutter
   flutter_localizations:
     sdk: flutter
-  flutter_translate:
+  codebase_translate:
     path: ../
 
 flutter:
